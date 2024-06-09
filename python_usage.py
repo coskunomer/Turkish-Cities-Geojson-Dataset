@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.path import Path
 from matplotlib.patches import PathPatch
 
-# python 3.8.113
+# python 3.8.13
 # matplotlib 3.4.3
 
 def display_geojson(content):
